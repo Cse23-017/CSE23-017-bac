@@ -198,7 +198,7 @@ i{
     /* height: 0px; */
     padding: 10px 15px;
     position: absolute;
-    background-color: #000000;
+    background-color: transparent;
     top: 120px;
     width: 100%;
 }
