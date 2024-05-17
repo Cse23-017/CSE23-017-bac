@@ -154,7 +154,7 @@ i{
 
 .slider-box{
     position: absolute;
-    top: 10% ;
+    top: 5% ;
     z-index: 500;
     /* margin-left: 80px; */
 }
