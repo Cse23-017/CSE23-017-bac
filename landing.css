@@ -156,6 +156,7 @@ i{
     position: absolute;
     top: 700px ;
     z-index: 500;
+    object-fit: cover;
     /* margin-left: 80px; */
 }
 
